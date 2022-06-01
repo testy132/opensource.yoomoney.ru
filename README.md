@@ -1,2 +1,2 @@
 # now.fairmint.co
-PwD by Mayank Kamboj
+PwD by Nullrex
