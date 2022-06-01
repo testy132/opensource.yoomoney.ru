@@ -1,2 +1,2 @@
-# opensource.yoomoney.ru
+# now.fairmint.co
 PwD by Mayank Kamboj
