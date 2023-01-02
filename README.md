@@ -1,2 +1,2 @@
-# now.fairmint.co
+# status.belo.app
 PwD by Indie Shell
