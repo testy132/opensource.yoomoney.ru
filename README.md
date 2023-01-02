@@ -1,2 +1,2 @@
 # now.fairmint.co
-PwD by Nullrex
+PwD by Indie Shell
